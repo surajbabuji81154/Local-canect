@@ -1,0 +1,6 @@
+{
+  "name": "LocalConnect - 18+ Local Dating & Chat",
+  "description": "Discover verified adult singles in your city. Safe, modern, premium local 18+ dating, messaging, and community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
